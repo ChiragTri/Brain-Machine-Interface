@@ -1,4 +1,4 @@
-* linguist-vendored
+
 
 *.c linguist-detectable=false
 *.shell linguist-detectable=false
