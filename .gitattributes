@@ -2,3 +2,5 @@
 *.MakeFile linguist-detectable=true
 *.Shell linguist-detectable=false
 *.Processing linguist-detectable=false
+
+Brain-Machine-Interface/BMI-Algorithm/nbproject/* linguist-vendored
