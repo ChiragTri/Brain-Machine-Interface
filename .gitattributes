@@ -1,0 +1,4 @@
+*.C linguist-detectable=false
+*.MakeFile linguist-detectable=true
+*.Shell linguist-detectable=false
+*.Processing linguist-detectable=false
