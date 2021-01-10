@@ -2,5 +2,5 @@
 
 *.bash linguist-language=C++
 *.mk linguist-language=C++
-*main.o.d linguist-language=C++ 
+*o.d linguist-language=C++ 
 *.pde linguist-detectable=false
