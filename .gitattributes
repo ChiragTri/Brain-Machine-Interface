@@ -3,4 +3,6 @@
 *.Shell linguist-detectable=false
 *.Processing linguist-detectable=false
 
+*.C lingust-language=C++
+
 Brain-Machine-Interface/BMI_Algorithm/nbproject/* linguist-vendored
