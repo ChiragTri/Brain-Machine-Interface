@@ -1,7 +1,7 @@
 * linguist-vendored
 
-*.C linguist-detectable=false
-*.Shell linguist-detectable=false
-*.Processing linguist-detectable=false
+*.c linguist-detectable=false
+*.shell linguist-detectable=false
+*.pde linguist-detectable=false
 
-*.mk linguist-language = C++
+*.mk linguist-language=C++
