@@ -1,5 +1,5 @@
 * linguist-vendored
 
-*.shell linguist-detectable=false
-*.pde linguist-detectable=false
+*.bash linguist-language=C++
 *.mk linguist-language=C++
+*.pde linguist-detectable=false
