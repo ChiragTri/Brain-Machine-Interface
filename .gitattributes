@@ -1,8 +1,7 @@
+* linguist-vendored
+
 *.C linguist-detectable=false
-*.MakeFile linguist-detectable=false
 *.Shell linguist-detectable=false
 *.Processing linguist-detectable=false
 
-*.C lingust-language=C++
-
-Brain-Machine-Interface/BMI_Algorithm/nbproject/* linguist-vendored
+*.mk linguist-language = C++
