@@ -1,4 +1,0 @@
-*.C linguist-detectable=false
-*.mk linguist-detectable=true
-*.Shell linguist-detectable=false
-*.Processing linguist-detectable=false
