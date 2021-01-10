@@ -3,4 +3,4 @@
 *.Shell linguist-detectable=false
 *.Processing linguist-detectable=false
 
-Brain-Machine-Interface/BMI-Algorithm/nbproject/* linguist-vendored
+Brain-Machine-Interface/BMI_Algorithm/nbproject/* linguist-vendored
